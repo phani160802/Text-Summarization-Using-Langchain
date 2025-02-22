@@ -18,6 +18,7 @@ with st.sidebar:
 
 if not groq_api_key:
     st.info("Please add the groq api key")
+    st.stop()
 generic_url=st.text_input("URL",label_visibility="collapsed")
 
 ## Gemma Model USsing Groq API
