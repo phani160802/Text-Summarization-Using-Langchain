@@ -16,6 +16,8 @@ st.subheader('Summarize URL')
 with st.sidebar:
     groq_api_key=st.text_input("Groq API Key",value="",type="password")
 
+if not api_key:
+    st.info("Please add the groq api key")
 generic_url=st.text_input("URL",label_visibility="collapsed")
 
 ## Gemma Model USsing Groq API
