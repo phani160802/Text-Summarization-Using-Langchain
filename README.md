@@ -1,6 +1,6 @@
 ### LangChain: Summarize Text From YouTube or Website.
 This Streamlit-based web application allows users to summarize content from YouTube videos and websites using an AI-powered model. It leverages LangChain and Groq's Llama 3 model to generate concise and meaningful summaries.
-#### [Try it out Here!]:https://text-summarizing-bot.streamlit.app/
+#### [Try it out Here!]: https://text-summarizing-bot.streamlit.app/
 
 #### 🚀 Features
 - YouTube Video Summarization – Extracts and summarizes transcripts from YouTube videos.
@@ -18,7 +18,7 @@ This Streamlit-based web application allows users to summarize content from YouT
 - Python Validators – For validating user input URLs.
 
 #### 📖 How to Use
-Enter your Groq API Key in the sidebar.
-Input a YouTube video URL or Website URL in the text field.
-Click "Summarize the Content from YT or Website" to generate a summary.
-View the AI-generated summary instantly.
+- Enter your Groq API Key in the sidebar.
+- Input a YouTube video URL or Website URL in the text field.
+- Click "Summarize the Content from YT or Website" to generate a summary.
+- View the AI-generated summary instantly.
