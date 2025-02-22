@@ -10,8 +10,8 @@ User-Friendly Interface – Simple Streamlit UI for inputting URLs and getting s
 Error Handling & Validation – Ensures valid URLs and API key input.
 
 🛠️ Technologies Used
-Streamlit – For building the web interface.
-LangChain – To integrate and process text summarization.
+--Streamlit – For building the web interface.
+--LangChain – To integrate and process text summarization.
 Groq API (Llama 3-8B-8192) – For AI-powered text generation.
 YouTube Loader – Extracts transcripts from YouTube videos.
 Unstructured URL Loader – Fetches text from web pages.
