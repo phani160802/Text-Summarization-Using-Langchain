@@ -5,9 +5,6 @@ This Streamlit-based web application allows users to summarize content from YouT
 #### 🚀 Features
 - YouTube Video Summarization – Extracts and summarizes transcripts from YouTube videos.
 - Website Content Summarization – Fetches and summarizes text from web pages.
-- LLM-Powered Summarization – Uses the Llama 3 model via LangChain for high-quality summaries.
-- User-Friendly Interface – Simple Streamlit UI for inputting URLs and getting summaries instantly.
-- Error Handling & Validation – Ensures valid URLs and API key input.
 
 #### 🛠️ Technologies Used
 - Streamlit – For building the web interface.
